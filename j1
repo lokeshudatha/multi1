@@ -4,6 +4,7 @@ pipeline {
         stage ("one") {
             steps {
                 echo "lokesh_udatha, whr"
+                echo "new data"
             }
         }
     }
